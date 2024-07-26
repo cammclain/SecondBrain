@@ -157,7 +157,7 @@ Once I have selected the language of choice, I intend to:
     - Provide tutorials for common tasks discussing learned habits and techniques as well as potential bad or difficult experiences or situations that may have occurred and how they might have taught me a valuable lesson or skill
 - 
 
-## general thoughts:
+## general closing thoughts:
 
 I am not looking for the next Python or JavaScript in terms of what I predict a future community to look like, but I intend to pick a language that generally has a future, in terms of a community. For example, as cool as V is on paper, I cannot single handedly revive the community from its current stillborn state. 
 
@@ -167,4 +167,23 @@ I am looking to be early to the next, in terms of community size & overall quant
 
 I’m looking at more of a Rust, Swift or probably most optimal, Go.
 
-I feel like I am young and ideally just starting off in my software development career, so having something that I can grow with sounds appealing
+I feel like, in the grand scheme of things, I am young and ideally just starting off in my software development career, so having something that I can grow with sounds appealing
+
+----
+
+
+# Language Selection Discussion: 
+Let's begin to using the above rough draft discussing my plan for diving into a relatively small open source community, to discuss the language selection process.
+
+Please analyze the information & general assessment of the various topics I have provided to help me make a decision on what language I should learn and become deeply involved in the community around.
+
+Please do your best to analyze & extract the various goals I have expressed from my overall outline of a plan/journey within the draft above, and provide me with a detailed analysis of what language you think would be best for me to learn and why.
+
+If you believe additional information may be useful please feel free to request it before we start to make the actual decision on what language I should learn.
+
+I am looking forward to your response and am excited to see what you have to say.
+
+Take your time, there is no rush. I am looking for a detailed analysis of the information I have provided, and a well thought out response to help me make the best decision possible.
+Think this through clearly. Provided insightful information and analysis to help me make the best decision possible.
+
+
